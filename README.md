@@ -12,6 +12,6 @@ If you experience issues, please submit an [issue](https://github.com/treypujats
 The primary technical POC for this code is Lt Trey Pujats (@treypujats, trey.pujats@afit.edu or tpujats@gmail.com).
 
 ## Contributing
-Contributions are welcome! Please see the [contributing guidelines](https://github.com/treypujats/COVID19/blob/master/CONTRIBUTING.md) for details on how you can help, whether you're comfortable coding or not!
+Contributions are welcome! Please see the [contributing guidelines](https://github.com/treypujats/CHAD/blob/master/CONTRIBUTING.md) for details on how you can help, whether you're comfortable coding or not!
 
 ***** To run the app, go to covid19, download the files, and run the code from the global.R file *****
